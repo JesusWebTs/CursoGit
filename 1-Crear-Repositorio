@@ -26,3 +26,6 @@ git reset --hard ("<Codigo de la instantanea>")
 
 ---------- Commit y add
 git commit -am "<Comentario>"
+
+---------- Editar comentario de commit (Editor VIM)
+git commit --amend
