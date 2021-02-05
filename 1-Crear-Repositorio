@@ -1,0 +1,23 @@
+git config --global user.username "<Nombre>"
+git config --global user.emal "<Email>"
+
+----------Creando Repositorio------------
+git Init se ejecuta para hacer que git comience un seguimiento del proyecto
+
+----------Agregar archivos individuales a git seguimiento
+git add "Nombre del archivo"
+
+----------Agregar todos los archivos individuales a git seguimiento
+git add .
+
+----------Trasladar archivo de area de ensayo a area de repositorio local
+git commit
+
+---------- Verificar archivos y directorios
+git status -s
+
+---------- Muestra los archivos en el repositorio local de git
+git log --oneline
+
+---------- Resetear a copia anterior
+git reset --hard ("<Codigo de la instantanea>")
