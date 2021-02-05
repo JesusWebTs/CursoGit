@@ -1,3 +1,5 @@
+----------Establecer usuario y email
+
 git config --global user.username "<Nombre>"
 git config --global user.emal "<Email>"
 
@@ -11,7 +13,7 @@ git add "Nombre del archivo"
 git add .
 
 ----------Trasladar archivo de area de ensayo a area de repositorio local
-git commit
+git commit "<Comentario>"
 
 ---------- Verificar archivos y directorios
 git status -s
@@ -21,3 +23,6 @@ git log --oneline
 
 ---------- Resetear a copia anterior
 git reset --hard ("<Codigo de la instantanea>")
+
+---------- Commit y add
+git commit -am "<Comentario>"
