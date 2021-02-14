@@ -1,3 +1,4 @@
+/* <<<<<<< HEAD */
 body {
   background-color: blue;
   font-weight: bold;
@@ -5,9 +6,18 @@ body {
   font-size: 18px;
   background-color: black;
 }
-body {
+/* body {
   background-color: blue;
   font-weight: bold;
   color: red;
   font-size: 18px;
+}
+======= */
+body{
+    background-color: blue;
+    font-weight: bold;
+    color: red;
+    font-size: 18px;
+    padding: 2em;
+/* >>>>>>> e97df1c43c6f27ff3d944aeb3eda4e72c79fcd01 */
 }
