@@ -1,0 +1,11 @@
+git config --global user.username "<Nombre>"
+git config --global user.emal "<Email>"
+
+----------Seleccionar repositorio Online------------
+git remote add origin <uri>
+
+
+----------Subiendo Archivos------------
+git push origin master 
+
+
