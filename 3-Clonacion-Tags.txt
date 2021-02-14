@@ -1,0 +1,11 @@
+"Clonar el mismo proyecto desde git"
+git pull
+
+"Clonar proyecto con una url"
+"git clone"
+
+"Crear una tag"
+git tag 12-2-21v1 -m "Version 1 del proyecto"
+
+"Subir tags"
+git push --tags
